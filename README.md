@@ -26,10 +26,12 @@ The pipeline is built using the following libraries:
 - woodwork
 - scipy
   
-##Proposed Architecture Of Pipeline
+## Proposed Architecture Of Pipeline
 
 The pipeline is built using the following architecture:
-![image](https://github.com/user-attachments/assets/ca70c1c9-0ecb-4d38-b479-87552372d44a)
+
+![image](https://github.com/user-attachments/assets/b1ba5e9e-add8-4c83-8f85-7ff19a1ed6a3)
+
 
 ## Directory Structure
 
