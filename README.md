@@ -1,6 +1,6 @@
 # Automated ML Pipeline
 
-This notebook is a template for creating an end-to-end machine learning pipeline using the programming language Python, which aims to automate the process of data preprocessing, feature engineering, model selection, and model evaluation. The pipeline is built using the following steps:
+This notebook is a template for creating an end-to-end machine learning pipeline using the programming language Python, which aims to automate the process of data preprocessing, feature engineering, feature selection/importance, and model evaluation. The pipeline is built using the following steps:
 The pipeline includes the following steps:
 
 1. Data Preprocessing
