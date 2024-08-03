@@ -25,6 +25,11 @@ The pipeline is built using the following libraries:
 - tqdm
 - woodwork
 - scipy
+  
+##Proposed Architecture Of Pipeline
+
+The pipeline is built using the following architecture:
+![image](https://github.com/user-attachments/assets/ca70c1c9-0ecb-4d38-b479-87552372d44a)
 
 ## Directory Structure
 
