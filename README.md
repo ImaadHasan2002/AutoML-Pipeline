@@ -30,7 +30,6 @@ The pipeline is built using the following libraries:
 
 - `data/`: Contains the various datasets used in the pipeline.
 - `notebooks/`: Contains the notebooks used in the pipeline.
-- `src/`: Contains the source code for the pipeline.
 - `requirements.txt`: Contains the required libraries for the pipeline.
 - `README.md`: Contains the information about the pipeline.
 
