@@ -35,8 +35,9 @@ The pipeline is built using the following architecture:
 
 ## Directory Structure
 
-- `data/`: Contains the various datasets used in the pipeline.
+- `data/`: Contains the various datasets evaluated for the proposed pipeline.
 - `notebooks/`: Contains the notebooks used in the pipeline.
+- `misc/`: Contains the csv images used in the README.md file.Also contains the Main_processed.csv file which is generated when the pipeline is executed on a lone table(containing all the features) and the cleaned_feature_matrix.csv file is generated when the pipeline is executed on a feature matrix and is cleaned using correlation analysis and other statistical methods.
 - `requirements.txt`: Contains the required libraries for the pipeline.
 - `README.md`: Contains the information about the pipeline.
 
@@ -49,13 +50,12 @@ pip install -r requirements.txt
 
 2. **Run the pipeline**: Run the pipeline using the following command:
 ```bash
-Pipeline is run using the notebook in the notebooks folder after installing the required libraries.
+Pipeline can be run by running the notebook named 'Automated_ML_Pipeline.ipynb' in the notebooks folder after installing the required libraries mentioned in the requirements.txt file.
 ```
 3. Example inputs are:-
 ```bash
 data_path = 'data/loan_data.csv'
 target = 'bad_loan'
-
 ```
 ## Author
 
